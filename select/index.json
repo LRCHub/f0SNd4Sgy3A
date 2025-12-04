@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SimPle",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T13:53:59.269547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Simple",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Simple_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Am A Simple Man",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/02_I_Am_A_Simple_Man_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Am A Simple Man (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/03_I_Am_A_Simple_Man_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep It Simple",
+      "artist": "James Barker Band",
+      "has_synced": true,
+      "path": "select/04_Keep_It_Simple_James_Barker_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep It Simple",
+      "artist": "James Barker Band",
+      "has_synced": true,
+      "path": "select/05_Keep_It_Simple_James_Barker_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/06_Simple_Man_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/07_Simple_Man_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Simple Man",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/08_Simple_Man_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Simple Man",
+      "artist": "Charlie Daniels",
+      "has_synced": true,
+      "path": "select/09_Simple_Man_Charlie_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Simple Man (Album Version)",
+      "artist": "Charlie Daniels",
+      "has_synced": true,
+      "path": "select/10_Simple_Man_(Album_Version)_Charlie_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Simple Man (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": false,
+      "path": "select/11_Simple_Man_(Album_Version)_The_Charlie_Daniels_Band.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Simple Town",
+      "artist": "Walker Montgomery",
+      "has_synced": false,
+      "path": "select/12_Simple_Town_Walker_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "simple times",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/13_simple_times_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Acto Simple",
+      "artist": "Andrés Calamaro",
+      "has_synced": false,
+      "path": "select/14_Acto_Simple_Andrés_Calamaro.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson - Simple Text Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/15_The_Hearts_Filthy_Lesson_-_Simple_Text_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SimPle",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_SimPle_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
